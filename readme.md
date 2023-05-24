@@ -1,0 +1,1 @@
+This repo is for practicing javascript for ACA web101.
